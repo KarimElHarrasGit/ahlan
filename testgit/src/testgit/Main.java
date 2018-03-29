@@ -7,7 +7,7 @@ public class Main {
 		int a = 9;
 		int b = 5;
 		int c;
-		String alpha="alpha";
+		String alpha="hadi";
 		int f = 2;
 	}
 
