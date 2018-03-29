@@ -11,6 +11,7 @@ public class Main {
 		String alpha="hadi";
 		int f = 6;
 		int p=36;
+		String prenom = "jib had fichier l pc";
 	}
 
 }
