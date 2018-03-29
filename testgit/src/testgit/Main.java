@@ -6,6 +6,10 @@ public class Main {
 		// TODO Auto-generated method stub
 		int a = 9;
 		String nom = "master";
+		int b = 5;
+		int c;
+		String alpha="hadi";
+		int f = 2;
 	}
 
 }
