@@ -10,6 +10,7 @@ public class Main {
 		int c;
 		String alpha="hadi";
 		int f = 6;
+		int p=36;
 	}
 
 }
