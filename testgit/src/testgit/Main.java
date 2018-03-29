@@ -9,7 +9,7 @@ public class Main {
 		int b = 5;
 		int c;
 		String alpha="hadi";
-		int f = 2;
+		int f = 6;
 	}
 
 }
