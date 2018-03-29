@@ -8,6 +8,7 @@ public class Main {
 		int b = 5;
 		int c;
 		String alpha="alpha";
+		int f = 2;
 	}
 
 }
