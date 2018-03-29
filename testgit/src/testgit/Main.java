@@ -7,7 +7,7 @@ public class Main {
 		int a = 9;
 		int b = 5;
 		int c;
-		String pop="al";
+		String alpha="alpha";
 	}
 
 }
